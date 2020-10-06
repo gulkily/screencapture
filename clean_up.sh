@@ -1,4 +1,4 @@
 #!/bin/sh
 
-rm images/*.jpg
-rm tmp/*.jpg
+rm images/*.png
+rm tmp/*.png
